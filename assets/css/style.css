@@ -1,0 +1,91 @@
+body
+    {
+    padding: 0;
+    margin: 0;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 100%;
+    color: #777777;
+    background-image: url("../images/backgroundConcrete.png");
+    background-repeat: repeat;
+  }
+  header {
+      padding: 0;
+      background: white;
+      width: 100%;
+      align-items: center;
+      margin-left: auto;
+      margin-right: auto;
+      border-bottom: 3px solid grey;
+  }
+  .header-container {
+      width: 960px;
+      margin: 0 auto;
+  }
+.body-container {
+    width: 960px;
+    margin: 0 auto;
+    background: white;
+    margin-top: 40px;
+}  
+h1 {
+    display: inline-block;
+    padding: 20px;
+    margin: 0;
+    font-size: 30px;
+    color: white;
+    background: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+h2,
+img,
+#body-text{
+    padding: 15px;
+    margin:0;
+}
+#nav {
+    float: right;
+    vertical-align: bottom;
+    padding-left: 20px;
+    
+}
+h2{
+    padding: 15px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color:#4aaaa5;
+}
+hr {
+    margin: 15px;
+    margin-top: 0px;
+    padding-top: 0px;
+    border: 0;
+    height: 4px;
+    background: #cccccc;
+}
+img {
+    width: 200px;
+}
+#body-text {
+    float: right;
+}
+.footer {
+    border-top: 8px solid #4aaaa5;
+    background: #666666;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    font-size: 10px; 
+}
+.footer p{
+    width: 100%;
+    font-size: 10px;
+    position: absolute;
+    bottom: 0;
+    align-content: center;
+    margin: 0;
+}
