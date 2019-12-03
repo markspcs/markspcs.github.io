@@ -69,10 +69,37 @@ hr {
     height: 4px;
     background: #cccccc;
 }
-img {
+.aboutImg {
     width: 200px;
     height: 200px;
     float: left;
+}
+.clear{
+    clear: both;
+    height: 20px;
+}
+.portImgLeft{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+.portImgRight{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    float: left;
+    left: 20px;
+}
+h3 {
+    color: white;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    background: #4aaaa5;
+    position: absolute;
+    top: 20px;
+    width: 100%;
+    padding: 0px;
+    left: 15px;
 }
 #body-text {
     line-height: 32px;
