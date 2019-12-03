@@ -46,6 +46,7 @@ img,
 #body-text{
     padding: 15px;
     margin:0;
+    
 }
 #nav {
     float: right;
@@ -70,9 +71,31 @@ hr {
 }
 img {
     width: 200px;
+    height: 200px;
+    float: left;
 }
 #body-text {
-    float: right;
+    line-height: 32px;
+}
+a {
+    color: #777777;
+    text-decoration: none;
+}
+form {
+    margin: 15px;
+}
+input[type=text],
+textarea{
+    width: 100%;
+    border: 1px solid #cccccc;
+}
+input[type=submit]{
+    background-color: #4aaaa5;
+    border: none;
+    color: white;
+    margin: 15px 0px;
+    padding: 10px 20px;
+
 }
 .footer {
     border-top: 8px solid #4aaaa5;
