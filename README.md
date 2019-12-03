@@ -1,2 +1,28 @@
-https://ku.bootcampcontent.com/ku-coding-boot-camp/KU-EDW-FSF-PT-11-2019-U-C/tree/master/Week-01_HTML-Git-CSS/02-Homework
+
+<h1>Portfolio</h1>
+<hr>
+
+# Portfolio
+
+## Description 
+
+This project only contains 3 pages from the ~/directory.
+	index.html
+	contact.html
+	portfolio.html
+	
+Shared css in ~/assets/css
+	style.css
+	
+## Installation
+
+public GIT distro. Follow github.com guide
+
+## Usage 
+
+all file in ~/ are meant to be opened in a browser
+
+## Credits
+
+## License
 
